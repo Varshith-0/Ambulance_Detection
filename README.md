@@ -17,7 +17,7 @@ Here's a breakdown of the key features of this ambulance detector project:
     * Source: Roboflow 
     * Image Distribution:
         * 21% Indian ambulances
-        * 79% ambulances from other countries (mention specific countries if applicable)
+        * 79% ambulances from other countries
     * Split:
         * Train: 536 images
         * Validation: 94 images
